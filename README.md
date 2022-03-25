@@ -2,6 +2,12 @@
 
 I am a glorified statistician and software developer. I am particularly interested in Bayesian statistics and generative modeling, MCMC samplers and symbolic programming.
 
+### Thinking
+
+- **[Pollsposition](https://github.com/pollsposition)** is an election forecasting project.
+- **[The typical set](https://thetypicalset.com/)** a subset of my personal notes displayed as a graph. This is both an experiment in note taking and how to display knowledge graphs ([repo](https://github.com/rlouf/garden))
+- **[Ddoxa](https://www.ddoxa.fr)** is a set of short data-driven notes (in French) on economics and politics ([repo](https://github.com/rlouf/ddoxa))
+
 ### Development
 
 - **[Aemcmc](https://github.com/aesara-devs/aemcmc)** is a framework to build efficient samplers for probabilistic models automatically <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/aesara-devs/aemcmc?style=social">
