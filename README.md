@@ -6,6 +6,7 @@ I am a glorified statistician and software developer. I am particularly interest
 
 - **[Pollsposition](https://github.com/pollsposition)** is an election forecasting project.
 - **[Ddoxa](https://www.ddoxa.fr)** is a set of short data-driven notes (in French) on economics and politics ([repo](https://github.com/rlouf/ddoxa))
+- **[Blog](https://thetypicalset.com/blog)** a subset of my personal notes displayed as a graph. This is both an experiment in note taking and how to display knowledge graphs ([repo](https://github.com/rlouf/thetypicalset))
 
 ### Development
 
@@ -16,4 +17,4 @@ I am a glorified statistician and software developer. I am particularly interest
 
 ### Experiments
 
-- **[The typical set](https://thetypicalset.com/)** a subset of my personal notes displayed as a graph. This is both an experiment in note taking and how to display knowledge graphs ([repo](https://github.com/rlouf/garden))
+- **[The typical set](https://thetypicalset.com/)** a subset of my personal notes displayed as a graph. This is both an experiment in note taking and how to display knowledge graphs ([repo](https://github.com/rlouf/thetypicalset))
