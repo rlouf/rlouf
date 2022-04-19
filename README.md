@@ -21,4 +21,6 @@ I am a glorified statistician and software developer. I am particularly interest
 
 ### Learning
 
-- **[Structure and Interpretation of Computer Programs](https://github.com/rlouf/sicp)** notes and exercises from the book. 
+- **[Structure and Interpretation of Computer Programs](https://github.com/rlouf/sicp)** notes and exercises.
+- **[The Reasoned Schemer](https://github.com/rlouf/reasoned-schemer)** notes and code examples.
+
