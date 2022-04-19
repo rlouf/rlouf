@@ -18,3 +18,7 @@ I am a glorified statistician and software developer. I am particularly interest
 ### Experiments
 
 - **[The typical set](https://thetypicalset.com/)** a subset of my personal notes displayed as a graph. This is both an experiment in note taking and how to display knowledge graphs ([repo](https://github.com/rlouf/thetypicalset))
+
+### Learning
+
+- **[Structure and Interpretation of Computer Programs](https://github.com/rlouf/sicp)** notes and exercises from the book. 
