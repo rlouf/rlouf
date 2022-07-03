@@ -1,10 +1,10 @@
 **Rémi Louf** / [Twitter](https://twitter.com/remilouf) / [Linkedin](https://linkedin.com/in/remilouf)
 
-I am a glorified statistician and software developer. I am particularly interested in Bayesian statistics and generative modeling, MCMC samplers and symbolic programming.
+I am a statistician (some say data scientist) and software developer. I am particularly interested in Bayesian statistics and generative modeling, MCMC samplers and symbolic programming.
 
 ### What I write for others
 
-- **[Pollsposition](https://github.com/pollsposition)** is an election forecasting project.
+- **[Pollsposition](https://github.com/pollsposition)** is an election forecasting project;
 - **[Ddoxa](https://www.ddoxa.fr)** is a set of short data-driven notes (in French) on economics and politics ([repo](https://github.com/rlouf/ddoxa))
 - **[Blog](https://thetypicalset.com/blog)**
 
