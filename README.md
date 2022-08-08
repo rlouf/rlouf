@@ -2,6 +2,8 @@
 
 I am a statistician (some say data scientist) and software developer. I am particularly interested in Bayesian statistics and generative modeling, MCMC samplers and symbolic programming.
 
+[ASK ME ANYTHING](https://github.com/rlouf/ama)
+
 ### What I write for others
 
 - **[Pollsposition](https://github.com/pollsposition)** is an election forecasting project;
