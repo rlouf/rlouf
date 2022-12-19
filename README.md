@@ -4,5 +4,5 @@ I am a statistician (some say data scientist) and software developer. I am parti
 
 I am the author of [Blackjax](https://github.com/blackjax-devs/blackjax) and a core member of [Aesara](https://github.com/aesara-devs/aesara).
 
-- **[ASK ME ANYTHING](https://github.com/)**
+- **[ASK ME ANYTHING](https://github.com/rlouf/ama)**
 - **[The typical set](https://thetypicalset.com)** is an experiment in note taking and sharing ([repo](https://github.com/rlouf/))
