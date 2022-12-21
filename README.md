@@ -1,4 +1,4 @@
-**Rémi Louf** / [Twitter](https://twitter.com/remilouf) / [Linkedin](https://linkedin.com/in/remilouf)
+**Rémi Louf** / [Twitter](https://twitter.com/remilouf) / [Linkedin](https://linkedin.com/in/remilouf) / <a rel="me" href="https://bayes.club/@remilouf">Mastodon</a>
 
 I am a statistician (some say data scientist) and software developer. I am particularly interested in Bayesian statistics and generative modeling, MCMC samplers and symbolic programming.
 
